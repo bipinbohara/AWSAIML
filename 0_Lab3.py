@@ -13,7 +13,7 @@ image_file = input("Enter the image filename: ")
 print("Check output.txt file")
 
 img = Image.open(image_file)
-img.show()
+img.show() # Displays Image in a new window
 
 file = open(image_file,'rb').read()
 
