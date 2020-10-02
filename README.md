@@ -7,7 +7,8 @@
 
 3. An image file 'minion.jpg' is not recognized as a face and hence not included in the collection too.
 
-![picture](file:///C:/Users/Dipendra/OneDrive/Desktop/Face%20Detection%20System/AWSAIML/img/Screenshot1.png)
-![picture](file:///C:/Users/Dipendra/OneDrive/Desktop/Face%20Detection%20System/AWSAIML/img/Screenshot2.png)
-![picture](file:///C:/Users/Dipendra/OneDrive/Desktop/Face%20Detection%20System/AWSAIML/img/Screenshot3.png)
+![Screenshot1](img/Screenshot1.png)
 
+![Screenshot2](img/Screenshot2.png)
+
+![Screenshot3](img/Screenshot3.png)
