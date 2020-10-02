@@ -1,4 +1,4 @@
-# AWSAIML
+# AWSAIML LAB3
 
 1. There are 6 python files among which files starting from 1-5 are used to create collection, add images to the collection, comapare faces within the images, list the number of faces added to the collection and delete the collection respectively.
     * To compare the faces use 'test.jpg' (different image of the same person)
