@@ -5,7 +5,7 @@
     
 2. File 0_Lab3.py is used analyze the face within the image, the output is saved in the output.txt and the image that the user inputs is displayed in a new window.
 
-3. An image file 'minion.jpg' is not recognized as a face and hence not included in the collection too.
+3. An image file 'minion.jpg' is not recognized as a face and hence not included in the collection too because Amazon Rekognition does not categorize it as a face.
 
 ![Screenshot1](img/Screenshot1.png)
 
