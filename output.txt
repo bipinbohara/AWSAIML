@@ -1,0 +1,16 @@
+The detected face is between 32 and 48 years old 
+The detected face is of Male
+The detected face is not smiling 
+The detected face has Eyeglass on 
+The detected face is not wearing Sunglasses 
+The detected face has Beard 
+The detected face has Mustache 
+The detected face has following Emotions: 
+	CALM with confidence 56.66170883178711
+	FEAR with confidence 11.282598495483398
+	CONFUSED with confidence 8.911822319030762
+	ANGRY with confidence 7.415003299713135
+	DISGUSTED with confidence 7.340804576873779
+	SAD with confidence 3.811138868331909
+	SURPRISED with confidence 2.8015992641448975
+	HAPPY with confidence 1.775328278541565
