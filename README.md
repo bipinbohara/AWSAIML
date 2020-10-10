@@ -9,8 +9,6 @@
 
 ![Screenshot1](img/Screenshot1.png)
 
-![Screenshot2](img/Screenshot2.png)
-
 ![Screenshot3](img/Screenshot3.png)
 
 4. The faces were falsely classified as not smiling and even with/without beard or mustache in some cases, the problem might be with photo quality or some bias with the face detection algorithm.
